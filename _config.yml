@@ -56,8 +56,8 @@ footer-links-active:
   email: true
   twitter: true
   github: true
-  googlescholar    : true
-  orcid            : true
+  googlescholar: true
+  orcid: true
 
 # Select which share links to show in posts
 share-links-active:
