@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Enough about me, let's talk about me
+title: about me
+subtitle: enough about me, let's talk about me
 ---
 
 My name is Gert Stulp. I like:
