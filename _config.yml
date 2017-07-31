@@ -45,32 +45,23 @@ avatar: "/img/avatar-icon.png"
 author:
   name: Gert Stulp
   email: "g.stulp@rug.nl"
-  github: gertstulp    # eg. daattali
-  twitter: yourname   # eg. daattali
-  reddit: yourname    # eg. daattali
-  google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: yourname  # eg. daattali
-  xing: yourname      # eg. daattali
-  stackoverflow: yourlink  # eg. "3943160/daattali"
-  snapchat: yourname  # eg. daattali
-  instagram: yourname # eg. daattali
-  youtube: yourlink   # eg. user/daattali or channel/daattali
-  spotify: yourname   # eg. daattali
-  telephone: yourphone   # eg. +14159998888
-
+  github: gertstulp    
+  twitter: yourname  
+  googlescholar: "https://scholar.google.nl/citations?user=fFcVaEYAAAAJ&hl=nl"
+  orcid: "https://orcid.org/0000-0003-0173-5554"
+  
 # Select which links to show in the footer
 footer-links-active:
   rss: false
   email: true
   twitter: true
   github: true
+  googlescholar    : true
+  orcid            : true
 
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
-  google: false
-
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
