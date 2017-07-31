@@ -48,7 +48,7 @@ author:
   github: gertstulp    
   twitter: yourname  
   googlescholar: "https://scholar.google.nl/citations?user=fFcVaEYAAAAJ&hl=nl"
-  #orcid: "https://orcid.org/0000-0003-0173-5554"
+  orcid: "https://orcid.org/0000-0003-0173-5554"
   
 # Select which links to show in the footer
 footer-links-active:
@@ -57,7 +57,7 @@ footer-links-active:
   twitter: true
   github: true
   googlescholar: true
-  #orcid: true
+  orcid: true
 
 # Select which share links to show in posts
 share-links-active:
