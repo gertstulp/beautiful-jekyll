@@ -1,14 +1,14 @@
 ---
 layout: page
-title: R
+title: CV
 ---
 
+Bla
+===
 
 Bla bla bla
 
-``` r
-library(ggplot2)
-ggplot(mpg, aes(x=cty, y=hwy)) + geom_point()
-```
+    library(ggplot2)
+    ggplot(mpg, aes(x=cty, y=hwy)) + geom_point()
 
-![](R_files/figure-markdown_github/unnamed-chunk-1-1.png)
+![](R_files/figure-markdown_strict/unnamed-chunk-1-1.png)
