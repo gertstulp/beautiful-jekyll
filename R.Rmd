@@ -2,6 +2,7 @@
 output: 
   html_document:
     before_body: [include_header.html]
+    after_body: [include_lessons_nav_end.html, include_footer.html]
 ---
 # Bla
 
