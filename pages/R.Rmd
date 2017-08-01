@@ -1,0 +1,8 @@
+---
+output: github_document
+---
+
+```{r}
+library(ggplot2)
+ggplot(mpg, aes(x=cty, y=hwy)) + geom_point()
+```
