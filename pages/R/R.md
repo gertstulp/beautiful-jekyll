@@ -3,11 +3,7 @@ layout: page
 title: R
 ---
 
-
-#Bla
-
 # Bla
-
 
 Bla bla bla
 
