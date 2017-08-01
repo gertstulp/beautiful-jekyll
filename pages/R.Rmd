@@ -1,6 +1,9 @@
 ---
-output: github_document
+output: 
+  html_document:
+    before_body: [include_header.html]
 ---
+# Bla
 
 ```{r}
 library(ggplot2)
