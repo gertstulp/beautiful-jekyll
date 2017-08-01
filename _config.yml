@@ -31,7 +31,6 @@ navbar-links:
   Teaching: "gertstulp.github.io/pages/teaching"
   Resources:
     - R: "gertstulp.github.io/pages/R/R"
-    - R2: "gertstulp.github.io/pages/R/R.html"
     - Visualization: "gertstulp.github.io/pages/visualization"
     - Cats: "gertstulp.github.io/pages/cats"
     - Learn markdown: "http://www.markdowntutorial.com/"
