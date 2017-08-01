@@ -1,6 +1,5 @@
 ---
-layout: page
-title: R
+output: github_document
 ---
 
 # Bla
