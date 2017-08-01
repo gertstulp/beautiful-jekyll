@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post!
+title: First blog...
 image: /img/hello_world.jpeg
 tags: [website, Dean Attali]
 ---
