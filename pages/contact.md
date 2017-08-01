@@ -1,6 +1,6 @@
 ---
 layout: page
-title: cats
+title: contact
 ---
   
 # Bla

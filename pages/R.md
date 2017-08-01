@@ -3,8 +3,6 @@ layout: page
 title: R
 ---
 
-Bla
-===
 
 Bla bla bla
 
