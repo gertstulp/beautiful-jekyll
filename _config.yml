@@ -53,7 +53,7 @@ author:
   name: Gert Stulp
   email: "g.stulp@rug.nl"
   github: gertstulp    
-  twitter: yourname  
+  twitter: Gert_Stulp_or_G 
   googlescholar: "https://scholar.google.nl/citations?user=fFcVaEYAAAAJ&hl=nl"
   orcid: "https://orcid.org/0000-0003-0173-5554"
   
@@ -103,6 +103,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
+paginate_path: "/blog/page:num/"
 
 kramdown:
   input: GFM
