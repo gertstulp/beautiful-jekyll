@@ -680,3 +680,138 @@ td.gutter {
 #social-share-section {
   margin-bottom: 30px;
 }
+
+/* --- Shiny apps and beautiful display --- */
+
+#portfolio-out {
+  background: #fff;
+  text-align: center;
+}
+#portfolio {
+  margin: 0 auto;
+  padding-top: 40px;
+}
+#portfolio-title {
+  color: #615d6d;
+  font-size: 34px;
+  margin-bottom: 45px;
+  cursor: pointer;
+  display: inline-block;
+}
+#portfolio-title:hover {
+  color: #999;
+}
+#shinyapps-big {
+  overflow:hidden;
+}
+#shinyapps-big .shinyapp {
+  color: #3d3852;
+  margin: 0 30px 60px;
+  background: #fff;
+  transition: all 250ms;
+  text-align: left;
+  box-shadow: 0 0 20px #ccc;
+  border: 1px solid #eee;
+}
+#shinyapps-big .shinyapp:hover {
+  box-shadow: 0 0 20px #666;
+  background: #f2f6f9;
+  border-color: #aaa;
+}
+#shinyapps-big .shinyapp .apptitle {
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 10px 15px;
+}
+#shinyapps-big .shinyapp .appimg {
+  width: 100%;
+  cursor: pointer;
+  border-bottom: 1px solid #eee;
+}
+#shinyapps-big .applink {
+  color: inherit;
+  display: block;
+  text-decoration: none !important;
+}
+#shinyapps-big .shinyapp .appdesc {
+  padding: 0 15px 15px;
+  font-size: 16px;
+  line-height: 1.5em;
+}
+.section-sep {
+  border: 0 none;
+  max-width: 700px;
+  height: 2px;
+  background: #eee;
+  margin: 20px auto 0;
+}
+#qualifications .section-sep {
+  background: #DDD;
+  margin: 30px auto;
+}
+#services-out,
+#clients-out,
+#qualifications-out,
+#more-links-out {
+  color: #615d6d;
+  text-align: center;
+  padding: 40px 0;
+}
+#clients,
+#qualifications,
+#more-links {
+  max-width: 910px;
+  margin: 0 auto;
+}
+#clients-title,
+#qualifications-title,
+#more-links-title {
+  text-align: center;
+  font-size: 34px;
+}
+#clients-subtitle {
+  font-size: 22px;
+  margin: 20px 0 30px;
+}
+#clients a {
+  display: inline-block;
+  vertical-align: middle;
+  padding: 15px;
+}
+#clients img {
+  height: 80px;
+}
+#clients a:hover {
+  box-shadow: 0 0 10px #aaa;
+}
+
+#shinyapps-big[data-columns]::before {
+	content: '3 .grid-col.size-1of3';
+}
+@media only screen and (max-width: 650px) {
+  #shinyapps-big .shinyapp {
+    margin:0 15px 30px;
+  }
+  #shinyapps-big[data-columns]::before {
+    content: '2 .grid-col.size-1of2';
+  }
+}
+@media only screen and (max-width: 500px) {
+  #shinyapps-big[data-columns]::before {
+    content: '1 .grid-col.size-1of1';
+  }
+}
+.grid-col {
+  display: inline-block;
+  vertical-align: top;
+  max-width: 450px;
+}
+.size-1of3 {
+  width: 33.333%;
+}
+.size-1of2 {
+  width: 50%;
+}
+.size-1of1 {
+  width: 100%;
+}
