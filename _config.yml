@@ -26,8 +26,8 @@ navbar-links:
   News: "pages/news"
   Research:
     - Bio: "pages/bio"
-    - Publications: "pages/publications.md"
-    - CV: "pages/CV.md"
+    - Publications: "pages/publications"
+    - CV: "pages/CV"
   Teaching: "pages/teaching"
   Resources:
     - R: "pages/R"
