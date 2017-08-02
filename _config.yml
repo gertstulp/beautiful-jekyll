@@ -23,7 +23,7 @@ description: my personal website
 
 # List of links in the navigation bar
 navbar-links:
-  News: "gertstulp.github.io/pages/news"
+  News: "pages/news"
   Research:
     - Bio: "gertstulp.github.io/pages/bio"
     - Publications: "gertstulp.github.io/pages/publications"
