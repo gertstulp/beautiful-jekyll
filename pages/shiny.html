@@ -3,17 +3,84 @@ layout: default
 title: Shiny apps
 ---
 
-<style>
-  footer {
-    margin-top: -10px;
+
+
+<style media="screen" type="text/css">
+
+  #shinyapps-big {
+    overflow:hidden;
   }
-  #shiny-server-iframe {
-    margin-top: 51px;
-    border: 0 none;
+  #shinyapps-big .shinyapp {
+    color: #3d3852;
+    margin: 0 30px 60px;
+    background: #fff;
+    transition: all 250ms;
+    text-align: left;
+    box-shadow: 0 0 20px #ccc;
+    border: 1px solid #eee;
+  }
+  #shinyapps-big .shinyapp:hover {
+    box-shadow: 0 0 20px #666;
+    background: #f2f6f9;
+    border-color: #aaa;
+  }
+  #shinyapps-big .shinyapp .apptitle {
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 10px 15px;
+  }
+  #shinyapps-big .shinyapp .appimg {
+    width: 100%;
+    cursor: pointer;
+    border-bottom: 1px solid #eee;
+  }
+  #shinyapps-big .applink {
+    color: inherit;
+    display: block;
+    text-decoration: none !important;
+  }
+  #shinyapps-big .shinyapp .appdesc {
+    padding: 0 15px 15px;
+    font-size: 16px;
+    line-height: 1.5em;
+  }
+  
+  
+  #shinyapps-big[data-columns]::before {
+  	content: '3 .grid-col.size-1of3';
+  }
+  @media only screen and (max-width: 650px) {
+    #shinyapps-big .shinyapp {
+      margin:0 15px 30px;
+    }
+    #shinyapps-big[data-columns]::before {
+      content: '2 .grid-col.size-1of2';
+    }
+  }
+  @media only screen and (max-width: 500px) {
+    #shinyapps-big[data-columns]::before {
+      content: '1 .grid-col.size-1of1';
+    }
+  }
+  
+  .grid-col {
+    display: inline-block;
+    vertical-align: top;
+    max-width: 450px;
+  }
+  .size-1of3 {
+    width: 33.333%;
+  }
+  .size-1of2 {
+    width: 50%;
+  }
+  .size-1of1 {
+    width: 100%;
   }
 </style>
 
-<img src="https://www.example.com/images/dinosaur.jpg"
+
+<img src="https://www.kattenplaza.nl/uploads/page/katten_bestanden/cat_ewy3_1.jpg"
      width="400"
      height="341"
      title="A T-Rex on display in the Manchester University Museum">
