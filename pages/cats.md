@@ -24,6 +24,7 @@ Updates soon.
       <a href="http://www.protolife.com/" title="ProtoLife"><img src="https://www.kattenplaza.nl/uploads/page/katten_bestanden/cat_ewy3_1.jpg" style="height: 50px;"/></a>
     </div>
   </div>
+  <hr id="clients-sep" class="section-sep"/>
   <div id="clients">
   <div id="clients-title">Other cats</div>
     <div id="clients-subtitle">These are some pictures of other cats, Loebas and Zorro</div>
@@ -44,4 +45,6 @@ Updates soon.
   </div>
 </div>
 
-Everyone should know about [kitten font](: )http://nekofont.upat.jp/en/index.html)
+<hr id="clients-sep" class="section-sep"/>
+
+Everyone should know about [kitten font](http://nekofont.upat.jp/en/index.html)
