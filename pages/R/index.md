@@ -1,7 +1,7 @@
 R
 ================
 
-Updated soon.
+Updated soon. This websites needs to be fixed.
 
 Little test of Rmarkdown files.
 
@@ -11,3 +11,25 @@ ggplot(mpg, aes(x = cty, y = hwy)) + geom_point()
 ```
 
 ![](index_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-1-1.png)
+
+### Awesome R packages
+
+<https://www.showmeshiny.com/>
+
+<https://github.com/daattali/ggExtra>
+
+<https://tarakc02.github.io/rmapzen/>
+
+tidyverse
+
+ggplot extensions
+
+<https://www.showmeshiny.com/>
+
+<https://formr.org/>
+
+<https://blog.rstudio.com/2017/07/11/introducing-learnr/>
+
+<https://jasp-stats.org/2017/06/12/mysterious-vs-mpr/>
+
+<https://github.com/ropenscilabs/skimr>
