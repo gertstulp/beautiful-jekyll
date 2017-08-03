@@ -1,6 +1,10 @@
 R
 ================
 
+Updated soon.
+
+Little test of Rmarkdown files.
+
 ``` r
 library(ggplot2)
 ggplot(mpg, aes(x = cty, y = hwy)) + geom_point()
