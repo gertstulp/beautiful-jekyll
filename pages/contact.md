@@ -2,6 +2,21 @@
 layout: page
 title: contact
 ---
-  
-# Bla
-Bla bla bla
+
+[Gert Stulp](mail.to:g.stulp@rug.nl)
+
+[University of Groningen](http://www.rug.nl/)
+[Department of Sociology](http://www.rug.nl/bachelors/sociology/)
+[Inter-university Center for Social Science Theory and Methodology (ICS)](http://www.ics-graduateschool.nl/)
+
+### Visiting address
+Room G213, Gadourekbuilding
+Grote Rozenstraat 31
+9712 TG Groningen
+The Netherlands
++31(0)50 363 3196
+
+### Post address
+Grote Kruistraat 2/1 
+9712 TS Groningen
+The Netherlands
