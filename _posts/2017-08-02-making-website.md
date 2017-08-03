@@ -16,7 +16,7 @@ I also learned more from RStudio's [shiny examples](https://github.com/rstudio/s
 
 ### HTML
 
-This is useful for testing features of HTML: [http://jsfiddle.net/kyagn39h/12/](http://jsfiddle.net/kyagn39h/12/),  [https://www.w3schools.com/](https://www.w3schools.com/), [http://matthewjamestaylor.com/blog/adding-css-to-html-with-link-embed-inline-and-import](http://matthewjamestaylor.com/blog/adding-css-to-html-with-link-embed-inline-and-import), and [http://matthewjamestaylor.com/blog/perfect-3-column.htm](http://matthewjamestaylor.com/blog/perfect-3-column.htm).
+This is useful for testing features of HTML: [http://jsfiddle.net/kyagn39h/12/](http://jsfiddle.net/kyagn39h/12/),  [https://www.w3schools.com/](https://www.w3schools.com/), [http://matthewjamestaylor.com/blog/adding-css-to-html-with-link-embed-inline-and-import](http://matthewjamestaylor.com/blog/adding-css-to-html-with-link-embed-inline-and-import), [https://medium.com/@jamesfuthey/simulating-the-creation-of-website-thumbnail-screenshots-using-iframes-7145269891db](https://medium.com/@jamesfuthey/simulating-the-creation-of-website-thumbnail-screenshots-using-iframes-7145269891db) and [http://matthewjamestaylor.com/blog/perfect-3-column.htm](http://matthewjamestaylor.com/blog/perfect-3-column.htm).
 
 ### Other beautiful examples
 [Show me shiny](https://www.showmeshiny.com/)
