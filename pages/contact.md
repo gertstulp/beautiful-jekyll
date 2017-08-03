@@ -3,11 +3,11 @@ layout: page
 title: contact
 ---
 
-[Gert Stulp](mail.to:g.stulp@rug.nl)
+##[Gert Stulp](mail.to:g.stulp@rug.nl)
 
-[University of Groningen](http://www.rug.nl/)
-[Department of Sociology](http://www.rug.nl/bachelors/sociology/)
-[Inter-university Center for Social Science Theory and Methodology (ICS)](http://www.ics-graduateschool.nl/)
+[University of Groningen](http://www.rug.nl/)   
+[Department of Sociology](http://www.rug.nl/bachelors/sociology/)   
+[Inter-university Center for Social Science Theory and Methodology (ICS)](http://www.ics-graduateschool.nl/)  
 
 ### Visiting address
 Room G213, Gadourekbuilding
