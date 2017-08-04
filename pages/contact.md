@@ -3,7 +3,7 @@ layout: page
 title: contact
 ---
 
-##[Gert Stulp](mail.to:g.stulp@rug.nl)
+## [Gert Stulp](mail.to:g.stulp@rug.nl)
 
 [University of Groningen](http://www.rug.nl/)   
 [Department of Sociology](http://www.rug.nl/bachelors/sociology/)   
