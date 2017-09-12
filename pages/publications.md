@@ -6,7 +6,7 @@ title: publications
 ## Recent or In press   
 
 ***
-Tropf, F. C., Lee, S. H., Verweij, R. M., Stulp, G., van der Most, P. J., de Vlaming, R., … Mills, M. C. (2017). Hidden heritability due to heterogeneity across seven populations. Nature Human Behaviour. [Download](https://doi.org/10.1038/s41562-017-0195-1)
+Tropf, F. C., Lee, S. H., Verweij, R. M., Stulp, G., van der Most, P. J., de Vlaming, R., Bakshi, A., Briley, D. A., Rahal, C. , Hellpap, R., Iliadou, A. N., Esko, T., Metspalu, A., Medland, S. E., Martin, N. G., Barban, N., Snieder, H., Robinson, M. R. & Mills, M. C. (2017). Hidden heritability due to heterogeneity across seven populations. Nature Human Behaviour. [Download](https://doi.org/10.1038/s41562-017-0195-1)
 
 * * *
 Stulp, G., Sear, R., Schaffnit, S.B., Mills, M.C. & Barrett, L. (2016). The reproductive ecology of industrial societies, Part II: the association between wealth and fertility. Human Nature 27(4): 445–470. [Download](https://link.springer.com/article/10.1007%2Fs12110-016-9272-9)   
