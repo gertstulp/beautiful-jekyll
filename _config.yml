@@ -139,6 +139,7 @@ exclude:
   - LICENSE
   - README.md
   - Vagrantfile
+  - *.Rmd
 
 # prose.io config
 prose:
