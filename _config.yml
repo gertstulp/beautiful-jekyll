@@ -139,7 +139,6 @@ exclude:
   - LICENSE
   - README.md
   - Vagrantfile
-  - *.Rmd
 
 # prose.io config
 prose:
@@ -155,6 +154,7 @@ prose:
     - /css
     - /img
     - /js
+    - *.Rmd
   metadata:
     _posts:
       - name: "layout"
