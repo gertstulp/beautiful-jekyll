@@ -31,7 +31,7 @@ navbar-links:
   Teaching: "pages/teaching"
   Resources:
     - R: "pages/R"
-    - R for sociology: "pages/sociology.html"
+    - R for sociology: "pages/sociology"
     - Shiny apps: "pages/shiny"
     - Visualization: "pages/visualization"
     - Cats: "pages/cats"
