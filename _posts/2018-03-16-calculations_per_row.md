@@ -243,6 +243,6 @@ ggplot(times_long, aes(x = nrow, y = Time,
 
     ## Warning: Transformation introduced infinite values in continuous y-axis
 
-![](2018-03-16-calculations_per_row/figure-markdown_github/unnamed-chunk-13-1.png)
+![](/figure-markdown_github/unnamed-chunk-13-1.png)
 
 `rowMeans` is a clear winner, but can obvioulsy not be used when you have to do something differently to the rows than means. `apply` is a bit faster than the `pmap`-functions. `pmap` performs better than `pmap` list (which is opposite to the situation here: <https://rpubs.com/wch/200398>).`rowwise` seems to be the least ideal alternative, both in terms of time needed and the code. For other functions than calculating means, I will probably stick to (`p`)`map`, because that also lends itself better to statistical modelling.
