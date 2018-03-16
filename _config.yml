@@ -154,7 +154,6 @@ prose:
     - /css
     - /img
     - /js
-    - *.Rmd
   metadata:
     _posts:
       - name: "layout"
