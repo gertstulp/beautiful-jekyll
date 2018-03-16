@@ -2,7 +2,7 @@
 layout: post
 title: Different ways of calculating rowmeans on selected variables in a tidyverse framework
 image: /img/hello_world.jpeg
-tags: [website, Dean Attali]
+tags: [tidyverse, per row, rowmeans]
 ---
 
 Recently, I have been trying to force myself to do all my coding in a consistent coding framework. Mostly this means that I want to switch completely to tidyverse/dplyr-style coding. Mostly for reasons of readability and teaching, but it also has a slight OCD-component for myself. I find it weird to use the apply-family of functions within the dplyr-pipes. Mostly, this transition is effortless, however, when it comes to applying some functions on "rows" (values spread across different columns on one row) the process has been painful. It took me much time to figure out how to do it. And I am still not entirely confident in my abilities. I understand the tidy data principles, but something like rowmeans or counting how many variables have missing values for a particular individual (row) is so common that I imagined it to have a bigger role in the dplyr-framework.
